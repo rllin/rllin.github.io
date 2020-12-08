@@ -1,14 +1,12 @@
 ---
+layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /cv/
-  - /cv.pdf
-  - /cv.html
-  - /resume/
-  - /resume.html
-  - /resume.pdf
+  - /resume
+  - /cv
 ---
+academicpages.github.io
 
 [PDF](https://rllin.github.io/files/resumes/rllinCVDec2020.pdf)
